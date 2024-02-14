@@ -22,9 +22,11 @@ To access the Inventory Management App, simply click on the following link: [Inv
 
 ## Feedback and Support
 
-For any feedback, issues, or support inquiries, please contact our team at [support@example.com](mailto:support@example.com).
+For any feedback, issues, or support inquiries, please contact our team at [jadonabhisheksingh0@gmail.com](mailto:jadonabhisheksingh0@gmail.com).
 
 ## License
 
 This application is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+
 

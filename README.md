@@ -22,7 +22,7 @@ To access the Inventory Management App, simply click on the following link: [Inv
 
 ## Feedback and Support
 
-For any feedback, issues, or support inquiries, please contact our team at [jadonabhisheksingh0@gmail.com](mailto:jadonabhisheksingh0@gmail.com).
+For any feedback, issues, or support inquiries, please contact  [jadonabhisheksingh0@gmail.com](mailto:jadonabhisheksingh0@gmail.com).
 
 ## License
 
